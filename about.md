@@ -4,6 +4,40 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus eget nisl rutrum, ac lobortis sapien bibendum. Vestibulum et purus magna. Cras imperdiet eros massa, eu volutpat ante tempus in. Vivamus congue facilisis venenatis. Donec eros augue, dignissim in ante sit amet, lobortis vestibulum diam. Donec dictum lorem facilisis tincidunt cursus. Phasellus vel eros nibh. Nullam blandit nunc tincidunt est gravida faucibus. Donec ut semper diam, non lacinia libero. Aliquam in massa quam. Nullam vitae quam arcu. Proin tincidunt consectetur nunc vel sagittis. Nulla non feugiat nibh, sed laoreet justo.
-
-Vivamus porttitor dolor ut augue condimentum ultricies. Etiam vel orci pretium, tempus nunc eget, suscipit tellus. Phasellus nibh nunc, suscipit vitae sem in, tincidunt vulputate enim. Vestibulum consectetur nulla at ligula malesuada condimentum. Vestibulum sed dui vulputate, aliquet ipsum posuere, consequat est. Sed at nisl tempor, dictum tellus ac, placerat velit. Donec in malesuada nisi. Nam tincidunt nunc mollis dolor ultricies, ut ultricies leo porttitor.
+<div class="about-photo">
+<span class="about-image-container">
+<img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="about-image"/>
+</span>
+<figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+</div>
+<p><br>John, or “Coach,” grew up in Montana and moved to Spokane to play college basketball. After graduating from college John was a college instructor and coached basketball at the collegiate level before pursuing his passion for business and sales. For the past 20+ years John has been an industry leader in sales and Management in the Spokane community. He uses his sales, management and coaching background to lead our team as we continue to be the top selling real estate group in the region.
+</p>
+<br>
+<hr>
+<br>
+<div class="about-photo">
+<span class="about-image-container">
+<img src="/img/claudia.jpg" alt="Claudia" class="about-image"/>
+</span>
+<figcaption class="caption">Claudia</figcaption>
+</div>
+<p>Claudia is an agent with Keller Williams International Realty’s (KWRI) Legacy Group in Spokane, Washington and Operating Principal (OP) at the Coral Gables-Coconut Grove office. She arrived in the U.S. from Colombia in 2003, alone and did not speak a word of English. Within five years, Claudia built a successful Team in Spokane. She moved to the Miami area in 2013 and became the new Operating Partner for the Coral Gables and Coconut Grove Market Center. Within three years, the market center grew to more than 350 agents. Because of her persistence, courage and determination in reaching the “American dream", in 2016, Claudia became the first woman ever to reach the number-one spot on the National Association of Hispanic Real Estate Professionals (NAHREP) Top 250 list and continues being in the Top 3 Latino team leaders for such organization. Also, Claudia leads the expansion of KW into Colombia, bringing the franchise to the country in September 2017, and by the end of 2018 having 6 market centers opened and over 300 agents, making it the largest sales force in the country.  </p>
+<br>
+<hr>
+<br>
+<div class="about-photo">
+<span class="about-image-container">
+<img src="/img/seth.jpg" alt="Seth" class="about-image"/>
+</span>
+<figcaption class="caption">Seth</figcaption>
+</div>
+<p>Seth lives in north Spokane with his family and has been a proud resident of the
+area since 2002. In his 15+ years as a broker, he has sold well over $120 million in
+real estate, an achievement which has earned him recognition as one of the top
+agents in Spokane. He is currently the Managing Broker at the Legacy Group, and
+his skills in negotiation and ability to build strong relationships with his clients
+have propelled him to his success. He is committed to excellence and hard work,
+values he learned growing up on his family farm in Minnesota. In his personal
+time, Seth volunteers within the Big Brothers Big Sisters organization and coaches
+youth basketball. He is also an avid outdoorsman and looks forward to any
+opportunity to enjoy the outdoors with his family.</p>

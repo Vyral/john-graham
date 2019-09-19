@@ -2312,13 +2312,26 @@ table tr, table td {
 .client-image {
   max-width: 200px; }
 
+.about-image-container {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  border: 3px solid #b40101;
+  overflow: hidden;
+  display: inline-block;
+  margin: auto; }
+
+.about-image {
+  max-width: 150px; }
+
 .about-container {
   display: flex;
   justify-content: center;
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: flex; }
+    display: inline-block;
+    text-align: center; }
 
 .about-text {
   display: flex;
@@ -2575,6 +2588,10 @@ form select {
 
 .newsletter {
   background: #2b2b2b; }
+
+.about-photo {
+  float: left;
+  margin: 20px; }
 
 #side-logo {
   width: 90%;
