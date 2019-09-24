@@ -11,7 +11,7 @@ permalink: /about/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 <strong>John Graham</strong><br>
-CEO<br>
+CEO, Owner<br>
 <a href="tel:1-509-922-7355">509-922-7355<br>
 <a href="mailto:Johngraham.legacy@gmail.com">Johngraham.legacy@gmail.com</a><br>
 <p>John, or “Coach,” grew up in Montana and moved to Spokane to play college basketball. After graduating from college John was a college instructor and coached basketball at the collegiate level before pursuing his passion for business and sales. For the past 20+ years John has been an industry leader in sales and Management in the Spokane community. He uses his sales, management and coaching background to lead our team as we continue to be the top selling real estate group in the region.</p>

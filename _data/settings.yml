@@ -1,6 +1,6 @@
 audit_header: false
-title: Spokane and Miami Real Estate Video Blog with John Graham
-description: Our mission at The Legacy Group Network is to be your best resource for Spokane and Miami real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Legacy Group Network, your professional Spokane and Miami Real Estate Agents.
+title: Real Estate Video Blog with John Graham
+description: Our mission at The Legacy Group Network is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Legacy Group Network, your professional Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: About
@@ -47,7 +47,7 @@ sidebar_CTA:
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Home?"
-    CTA_text2: "Search the entire MLS for your Spokane and Miami home."
+    CTA_text2: "Search the entire MLS for your  home."
     CTA_link_text2: "See Listings"
     CTA_url2: https://www.thelegacygroupnetwork.com/search?zoom=10&rect=null&layoutType=map&mapType=list&page=1&listingSort=RELEVANCE&pageSize=24
 
@@ -85,11 +85,11 @@ socials:
   podcast_url:
 
 podcast:
-  title: 'Spokane and Miami Real Estate Podcast with John Graham'
+  title: 'Real Estate Podcast with John Graham'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Spokane and Miami Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Legacy Group Network - your professional Spokane and Miami Real Estate Agents.'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Legacy Group Network - your professional Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Spokane and Miami, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: 'John Graham'
 
@@ -97,7 +97,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: Spokane and Miami Real Estate Video Blog
+  hero_text: Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
