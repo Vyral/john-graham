@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes Now the Best Time to Sell in 2019?
-date: 2019-10-15 14:58:11
+date: 2019-10-15 14:58:00
 tags:
   - Home Seller Tips
 excerpt: 'It’s an incredible time to sell right now, and today we’ll explain why.'
@@ -17,7 +17,7 @@ youtube_code: WwdGKhKlXDI
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>It’s an incredible time to sell right now, and today we’ll explain why.</em></p>
+*It’s an incredible time to sell right now, and today we’ll explain why.*
 
 There are a couple of developments taking place in our market right now that make it prime for sellers looking to list by the end of the year, and today we’ll be sharing them with you.
 
