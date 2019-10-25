@@ -10,8 +10,8 @@ enclosure: >-
 pullquote: Buyers can currently lock in a 30-year fixed-rate mortgage at super-low rates.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/good-time-to-sell-youtube.jpg
 youtube_code: WwdGKhKlXDI
 ---
 
