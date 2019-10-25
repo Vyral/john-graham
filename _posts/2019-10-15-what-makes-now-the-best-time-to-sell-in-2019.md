@@ -17,7 +17,7 @@ youtube_code: WwdGKhKlXDI
 
 {% include youtube.html %}
 
-*It’s an incredible time to sell right now, and today we’ll explain why.*
+<p style="text-align:center;"><em>It’s an incredible time to sell right now, and today we’ll explain why.</em></p>
 
 There are a couple of developments taking place in our market right now that make it prime for sellers looking to list by the end of the year, and today we’ll be sharing them with you.
 
