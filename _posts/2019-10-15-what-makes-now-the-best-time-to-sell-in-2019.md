@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/good-time-to-sell-youtube.jpg
-youtube_code: WwdGKhKlXDI
+youtube_code: kzub2fZXn1s
 ---
 
 {% include youtube.html %}
