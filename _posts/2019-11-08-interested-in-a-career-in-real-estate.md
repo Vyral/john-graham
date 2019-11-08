@@ -21,7 +21,7 @@ youtube_code: WqOOrnvuqdE
 
 {% include youtube.html %}
 
-Today we’ll discuss what a career in real estate can do for you and you’ll hear from a few of our agents about what it’s like to work on our team.
+<p style="text-align:center;"><em>Today we’ll discuss what a career in real estate can do for you and you’ll hear from a few of our agents about what it’s like to work on our team.</em></p>
 
 Are you interested in a career in real estate? Today I want to discuss the important topic of a career in the real estate field. I’d like you to learn about our team and a couple of our teammates.
 
