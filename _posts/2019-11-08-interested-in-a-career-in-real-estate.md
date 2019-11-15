@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/real-estate-career-youtube.jpg
-youtube_code: WqOOrnvuqdE
+youtube_code: Kbvs5haO70s
 ---
 
 {% include youtube.html %}
