@@ -4,7 +4,8 @@ title: Join Us for Photos With Santa & More Holiday Fun
 date:
 tags:
 excerpt: We hope you join us on December 14 for our client appreciation event!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Graham/Join+Us+for+Photos+With+Santa+%26+More+Holiday+Fun.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
