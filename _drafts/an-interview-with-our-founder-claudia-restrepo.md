@@ -21,6 +21,8 @@ youtube_code: GAopApal1PI
 
 {% include youtube.html %}
 
+Founder Claudia Restrepo shared her story of the Legacy Group and how she decided to create it. Here’s what she had to say
+
 Founder Claudia Restrepo shared her story of the Legacy Group and how she decided to create it. Here’s what she had to say.
 
 The Legacy Group has been around for 12 years now, and today we’re interviewing our founder, Claudio Restrepo. Join us as she shares stories about the history of the Legacy Group, her life, and much more.
