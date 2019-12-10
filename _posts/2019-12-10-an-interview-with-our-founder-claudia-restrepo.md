@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'An Interview With Our Founder: Claudia Restrepo'
-date:
+date: 2019-12-10 20:28:59
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: GAopApal1PI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Founder Claudia Restrepo shared her story of the Legacy Group and how she decided to create it. Here’s what she had to say.</em></p>
+*Founder Claudia Restrepo shared her story of the Legacy Group and how she decided to create it. Here’s what she had to say.*
 
 The Legacy Group has been around for 12 years now, and today we’re interviewing our founder, Claudio Restrepo. Join us as she shares stories about the history of the Legacy Group, her life, and much more.
 
