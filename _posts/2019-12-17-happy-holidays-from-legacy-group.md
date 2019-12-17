@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays From Legacy Group
-date: 2019-12-17 22:21:31
+date: 2019-12-17 22:21:00
 tags:
   - Real Estate
 excerpt: 'As we reflect on 2019, we want to share our gratitude for all of your support.'
