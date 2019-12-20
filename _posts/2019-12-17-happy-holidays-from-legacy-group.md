@@ -19,7 +19,7 @@ youtube_code: d5pHxqom3Bs
 
 *As we reflect on 2019, we want to share our gratitude for all of your support.&nbsp;*
 
-Friends andClients,&nbsp;
+Friends and Clients,&nbsp;
 
 Happy holidays to you\!
 
