@@ -17,7 +17,7 @@ youtube_code: d5pHxqom3Bs
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>As we reflect on 2019, we want to share our gratitude for all of your support.&nbsp;</em></p>
+*A we reflect on 2019, we want to share our gratitude for all of your support.&nbsp;*
 
 Friends and Clients,&nbsp;
 
