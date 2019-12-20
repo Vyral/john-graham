@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/holidays-youtube-2.jpg
-youtube_code: NNXJJoV4ocE
+youtube_code: d5pHxqom3Bs
 ---
 
 {% include youtube.html %}
