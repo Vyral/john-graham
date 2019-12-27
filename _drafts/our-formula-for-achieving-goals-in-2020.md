@@ -17,6 +17,8 @@ youtube_code: sQ_sOpXTlXM
 
 {% include youtube.html %}
 
+Here our the three steps we use to achieve success that anyone can implement.
+
 Right now, people are assessing their situations and making a plan to improve in the new year. One notoriously flaky goal is fitness; people start off excited to get in shape, but once February, March, April, and May roll through, that goal has fallen by the wayside.&nbsp;
 
 Other popular goals may be career-related. Perhaps you’re looking to switch to a profession that provides both a substantial income and healthy work-life balance. Here at the Legacy Group, we’ve developed a sort of ‘secret sauce’ when it comes to offering well-balanced opportunities.&nbsp;
