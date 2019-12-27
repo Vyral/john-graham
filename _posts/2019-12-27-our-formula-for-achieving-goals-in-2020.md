@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Formula for Achieving Goals in 2020
-date: 2019-12-27 21:58:53
+date: 2019-12-27 21:58:00
 tags:
   - Real Estate
 excerpt: Here our the three steps we use to achieve success that anyone can implement
