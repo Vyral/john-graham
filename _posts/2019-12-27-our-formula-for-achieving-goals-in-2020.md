@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/part-1-youtube.jpg
-youtube_code: Z523VLTX5gs
+youtube_code: dajiKSQSXcc
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are the three steps we use to achieve success that anyone can implement.</em></p>
+*Here are the three steps we use to achieve success that anyone can implement.*
 
 Right now, people are assessing their situations and making a plan to improve in the new year. One notoriously flaky goal is fitness; people start off excited to get in shape, but once February, March, April, and May roll through, that goal has fallen by the wayside.&nbsp;
 
