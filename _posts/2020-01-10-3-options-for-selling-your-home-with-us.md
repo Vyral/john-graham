@@ -19,7 +19,7 @@ youtube_code: I6rwj59_TQY
 
 {% include youtube.html %}
 
-As a home seller, what options do you have for selling your home? Find out today.
+<p style="text-align:center;"><em>As a home seller, what options do you have for selling your home? Find out today.</em></p>
 
 If you’re planning to sell your home and you decide to work with us to help you do it, there are three great options we guarantee will&nbsp; help you get the job done:
 
