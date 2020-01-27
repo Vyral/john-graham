@@ -21,7 +21,7 @@ youtube_code: fhko4U0MteA
 
 {% include youtube.html %}
 
-Today I’m sharing what I know to be true about Zillow’s popular tool, the Zestimate.
+<p style="text-align: center;"><em>Today I’m sharing what I know to be true about Zillow’s popular tool, the Zestimate.</em></p>
 
 Here’s the basic principle of how a Zillow Zestimate works: public information regarding a home is processed by an algorithm that determines a valuation for that home.&nbsp;
 
