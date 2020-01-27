@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Zestimates
-date:
+date: 2020-01-27 18:36:51
 tags:
   - Real Estate
 excerpt: >-
