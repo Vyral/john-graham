@@ -21,9 +21,9 @@ youtube_code: fhko4U0MteA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I’m sharing what I know to be true about Zillow’s popular tool, the Zestimate.</em></p>
+*Today I’m sharing what I know to be true about Zillow’s popular tool, the Zestimate.*
 
-Here’s the basic principle of how a Zillow Zestimate works: public information regarding a home is processed by an algorithm that determines a valuation for that home.&nbsp;
+Here’s the basic principle of how a Zillow Zestimate works: Public information regarding a home is processed by an algorithm that determines a valuation for that home.&nbsp;
 
 It uses any data that it can grab, including past sales and tax records. **It can get you in the ballpark, but it will never be truly accurate.** Why? It lacks common sense decision-making skills.&nbsp;
 
