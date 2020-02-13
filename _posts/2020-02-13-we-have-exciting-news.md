@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Have Exciting News!
-date:
+date: 2020-02-13 21:04:19
 tags:
   - Real Estate
 excerpt: >-
