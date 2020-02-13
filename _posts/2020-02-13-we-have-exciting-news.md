@@ -18,7 +18,7 @@ youtube_code: Bzt9nxGpa8g
 
 {% include youtube.html %}
 
-I’m sharing some exciting news: We’re welcoming Tony Villelli as the director of our new commercial division.
+<p style="text-align: center;"><em>I’m sharing some exciting news: We’re welcoming Tony Villelli as the director of our new commercial division.</em></p>
 
 We have some exciting news today\! The Legacy Group has officially partnered with Tony Villelli\! We’re excited to have Tony with us because he’ll direct and manage our new commercial division. The excellent news is that **our team now offers our clients both residential and commercial real estate services.&nbsp;**
 
