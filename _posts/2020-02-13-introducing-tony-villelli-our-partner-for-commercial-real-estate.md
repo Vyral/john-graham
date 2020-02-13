@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Introducing Tony Villelli, Our Partner for Commercial Real Estate'
-date:
+date: 2020-02-13 20:22:06
 tags:
   - Real Estate
 excerpt: >-
