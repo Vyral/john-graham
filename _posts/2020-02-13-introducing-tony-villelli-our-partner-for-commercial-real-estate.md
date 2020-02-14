@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/commercial-real-estate-intro-youtube.jpg
-youtube_code: 44nzZ5vTuHU
+youtube_code: 47qXM9y1i60
 ---
 
 {% include youtube.html %}
