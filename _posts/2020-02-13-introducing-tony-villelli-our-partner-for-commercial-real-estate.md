@@ -19,7 +19,7 @@ youtube_code: 44nzZ5vTuHU
 
 {% include youtube.html %}
 
-*I’m here with commercial agent Tony Villelli to explain the brand-new Legacy Commercial Group Network.*
+<p style="text-align: center;"><em>I’m here with commercial agent Tony Villelli to explain the brand-new Legacy Commercial Group Network.</em></p>
 
 We’re hardly into 2020, and we already have some major news to break: **The Legacy Group has officially teamed up with Licensed Commercial Agent Tony Villelli** **and his team to form The Legacy Commercial Group Network.&nbsp;**
 
