@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Legacy group opens commercial real estate division!'
+title: 'The Legacy Group Opens Commercial Real Estate Division!'
 date: 2020-02-13 20:22:00
 tags:
   - Real Estate
