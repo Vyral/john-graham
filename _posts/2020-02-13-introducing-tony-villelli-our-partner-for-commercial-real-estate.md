@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Introducing Tony Villelli, Our Partner for Commercial Real Estate'
+title: 'The Legacy group opens commercial real estate division!'
 date: 2020-02-13 20:22:00
 tags:
   - Real Estate
