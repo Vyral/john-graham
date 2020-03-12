@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A High Real Estate Tide Lifts All Agents
-date:
+date: 2020-03-12 17:21:22
 tags:
   - Real Estate
 excerpt: >-
