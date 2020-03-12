@@ -21,7 +21,7 @@ youtube_code: XuSlE7W53Cg
 
 {% include youtube.html %}
 
-Here at the Legacy Group, we believe that if you want to achieve success, you must surround yourself with successful people.
+<p style="text-align: center;"><em>Here at the Legacy Group, we believe that if you want to achieve success, you must surround yourself with successful people.</em></p>
 
 Have you ever heard of the saying, “A high tide lifts all boats”?
 
