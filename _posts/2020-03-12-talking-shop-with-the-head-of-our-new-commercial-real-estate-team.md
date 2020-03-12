@@ -21,7 +21,7 @@ youtube_code: xmq75L7fQ60
 
 {% include youtube.html %}
 
-Tony Villelli is the head of our new commercial real estate team, and I’m excited about what this partnership means for our clients.&nbsp;
+<p style="text-align: center;"><em>Tony Villelli is the head of our new commercial real estate team, and I’m excited about what this partnership means for our clients.</em></p>
 
 Today I’m joined by Tony Villelli, the head of our new commercial real estate team to talk a little about his backstory and how he can help with your commercial real estate needs.&nbsp;
 
