@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talking Shop With the Head of Our New Commercial Real Estate Team
-date:
+date: 2020-03-12 21:06:34
 tags:
   - Real Estate
 excerpt: >-
