@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sellers: Now’s the Time'
-date:
+date: 2020-03-24 18:37:22
 tags:
   - Real Estate
 excerpt: >-
