@@ -18,6 +18,6 @@ youtube_code: RMSRSqjRVGA
 
 {% include youtube.html %}
 
-Even though we’re living in uncertain times, one thing is certain: There has never been a better time to sell your home.
+<p style="text-align: center;"><em>Even though we’re living in uncertain times, one thing is certain: There has never been a better time to sell your home.</em></p>
 
 The coronavirus pandemic is the source of a lot of volatility in the market lately, causing many people to hesitate with their real estate transactions. However, a couple of things are certain: With the drastically reduced interest rates and high home prices, you’d be hard-pressed to find a better time to sell your home. To learn more about what I mean, watch my latest video.
