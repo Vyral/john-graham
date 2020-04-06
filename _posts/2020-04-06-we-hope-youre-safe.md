@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Hope You’re Safe
-date:
+date: 2020-04-06 21:14:21
 tags:
   - Real Estate
 excerpt: >-
