@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Are Your Options in This Market?'
-date: 2020-05-08 15:37:16
+date: 2020-05-08 15:43:07
 tags:
   - Real Estate
 excerpt: You have two great options in our current real estate market.
@@ -16,8 +16,6 @@ youtube_code: gfLzBAPM5zU
 ---
 
 {% include youtube.html %}
-
-You have two great options in our current real estate market.
 
 Many things are up in the air right now; what are the best options in our current real estate market?&nbsp;
 
