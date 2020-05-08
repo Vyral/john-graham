@@ -17,7 +17,7 @@ youtube_code: gfLzBAPM5zU
 
 {% include youtube.html %}
 
-Many things are up in the air right now; what are the best options in our current real estate market?&nbsp;
+<p style="text-align: center;"><em>Many things are up in the air right now; what are the best options in our current real estate market?</em></p>
 
 **1\. Selling.** Is it a good time to sell your home? Absolutely\! In fact, just before recording this video, I heard from Steven, one of our top agents, that he received multiple offers on one of his listings, and sold the house for $60,000 over asking price, all within 48 hours. Those sellers are elated right now\!
 
