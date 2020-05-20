@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Makes Now a Good Time to Buy?'
-date:
+date: 2020-05-20 14:53:32
 tags:
   - Real Estate
 excerpt: Here are a few reasons why more homebuyers should consider making a move.
