@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: What Partnering With PRMG Means For You'
+title: 'Q: What Does Partnering With PRMG Means For You'
 date: 2020-06-01 16:31:41
 tags:
   - Real Estate
