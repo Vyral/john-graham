@@ -21,9 +21,7 @@ youtube_code: EirO0mtD49U
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
-Now that we’ve partnered with PRMG, we can take care of all of your home buying needs.
+<p style="text-align: center;"><em>Now that we’ve partnered with PRMG, we can take care of all of your home buying needs.</em></p>
 
 As you know, we’re working on growing The Legacy Group and being your one-stop shop for all things real estate.&nbsp;
 
@@ -32,6 +30,8 @@ When buying a home, it’s not unusual to have to go one place to secure a mortg
 The next step in our evolution is to have our own in-house mortgage company. Instead of asking you to go somewhere else to secure a good mortgage, **we’ve taken this step for you by partnering with one of the best mortgage companies in the country: Paramount Residential Mortgage Group.** Joining us today to tell you what PRMG can offer is Nick Garcia.
 
 PRMG is licensed in 48 states, and they have an industry-leading array of loan programs— including options for those who don’t fit the typical home buying mold. Also, it’s important to note that they only focus on mortgages. They’d never ask anyone, for example, to open a bank account with them; their team is highly specialized. There are a lot of potential bumps along the road to buying a home, but their structure allows them to make decisions that keep the transaction moving smoothly.&nbsp;
+
+{% include pullquote.html %}
 
 When a person is thinking about buying a home, they have a lot to do. They have to find a real estate agent, find a lender (and vet the lending process of that company), find a home to buy, *and* go through all the steps of buying that home. One of the advantages of having an in-house mortgage company is that we can take care of everything for you.&nbsp;
 
