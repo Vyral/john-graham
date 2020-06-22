@@ -22,7 +22,7 @@ youtube_code: hBFQjk2OS2I
 
 {% include youtube.html %}
 
-Many have been asking what the future of our real estate market looks like this year. Here are my thoughts.
+ <p style="text-align: center;"><em>Many have been asking what the future of our real estate market looks like this year. Here are my thoughts.</em></p>
 
 What’s going to happen in our real estate market moving forward in 2020? Are we headed for a crash like back in the late 2000s?&nbsp;
 
