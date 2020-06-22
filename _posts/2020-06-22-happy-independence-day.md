@@ -16,6 +16,6 @@ youtube_code: 4ckA9hcSaCk
 
 {% include youtube.html %}
 
-We hope you and your family have a safe, happy, and healthy holiday.
+ <p style="text-align: center;"><em>We hope you and your family have a safe, happy, and healthy holiday.</em></p>
 
 I just wanted to stop by and wish you all a happy Fourth of July\! We hope everybody is staying safe, and we want you to enjoy this holiday with your family and friends. Who’s ready for some fireworks? Hopefully you have a happy, healthy, and safe Independence Day. To hear my full message, watch this short video.
