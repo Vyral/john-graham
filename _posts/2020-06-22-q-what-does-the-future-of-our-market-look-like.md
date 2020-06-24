@@ -26,7 +26,7 @@ youtube_code: hBFQjk2OS2I
 
 What’s going to happen in our real estate market moving forward in 2020? Are we headed for a crash like back in the late 2000s?&nbsp;
 
-To answer these questions, let’s first take a look at our market’s inventory, or the number of homes available for purchase. Right now, **inventory is very low.** As a matter of fact, we have around 1.6 months of inventory, meaning that if no new homes came on the market, we’d sell all of what we have in 1.6 months. A neutral market has around six months of inventory, so that means our market is an extreme seller’s market.
+To answer these questions, let’s first take a look at our market’s inventory, or the number of homes available for purchase. Right now, **inventory is very low.** We have around 1.6 months of inventory, meaning that if no new homes came on the market, we’d sell all of what we have in 1.6 months. A neutral market has around six months of inventory, so that means our market is an extreme seller’s market.
 
 Back in the 2008 crisis, **home loans were much, much easier to come by.** People could qualify for loans with stated income; essentially, they could simply tell lenders how much they made without any sort of verification. After the crash, lending regulations become much tighter and home loans were no longer as easy to get, meaning that only qualified borrowers could now get loans. This is a key difference between today’s market and that of the Great Recession.&nbsp;
 
