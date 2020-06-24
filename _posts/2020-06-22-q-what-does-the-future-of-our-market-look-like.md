@@ -38,4 +38,4 @@ The final difference between today’s market and the 2008 crisis is interest ra
 
 Given all these differences, we expect our current market to hold steady and for home values to continue to appreciate. It’s a great time to both buy and sell a home; there are plenty of buyers in the market with low inventory, and interest rates make homes very affordable.&nbsp;&nbsp;
 
-Hopefully, this information has helped put our current position into perspective. If you have any further questions about the market or about buying or selling homes, don’t hesitate to reach out to us.
+Hopefully, this information has helped put our current position into perspective. If you have any further questions about the market or buying or selling homes, don’t hesitate to reach out to us.
