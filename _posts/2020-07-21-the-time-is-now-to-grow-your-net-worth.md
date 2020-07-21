@@ -5,7 +5,7 @@ date: 2020-07-21 18:17:50
 tags:
   - Real Estate
 excerpt: Now is a great time to grow your net worth. Here’s why.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/John+Graham/The+Time+Is+Now+to+Grow+Your+Net+Worth.mp4
 pullquote: >-
   If property values are going up and money is cheap to borrow, why pay money to
   get out of a house?
@@ -18,7 +18,8 @@ youtube_code: Yta6dNXnnwE
 
 {% include youtube.html %}
 
-Now is a great time to grow your net worth. Here’s why.
+ <p style="text-align: center;"><em>
+Now is a great time to grow your net worth. Here’s why.</em></p>
 
 I just had a conversation with one of our agents who has a young client that just bought their first home and then discovered that a trio of triplexes would be built right next door.&nbsp;
 
