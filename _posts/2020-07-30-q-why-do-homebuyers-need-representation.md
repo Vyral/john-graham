@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Do Homebuyers Need Representation?'
-date:
+date: 2020-07-30 20:37:21
 tags:
 excerpt: Shannon Braggs is here to explain why buyers benefit from representation.
 enclosure:
