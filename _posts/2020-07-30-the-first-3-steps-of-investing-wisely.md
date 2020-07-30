@@ -18,7 +18,7 @@ youtube_code: b6nWubeegRA
 
 {% include youtube.html %}
 
-These are the first three steps to know if you want to begin investing.
+<p style="text-align: center;"><em>These are the first three steps to know if you want to begin investing.</em></p>
 
 I’ve been speaking to a few people lately about how to get started with investing, so today I’m sharing the first three steps involved for anyone else who might be curious:&nbsp;
 
