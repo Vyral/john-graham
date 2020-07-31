@@ -35,6 +35,6 @@ If you’re a buyer going it alone and you call up the listing agent for a house
 
 Likewise, if the listing agent has a fiduciary responsibility to the seller, why on earth would you let that agent oversee your interests as a buyer? Shannon said that oftentimes during the buyer consultation, she’ll see the light bulbs go on in buyers’ minds: “Oh, wow, I’ve never thought of it that way,” they say.&nbsp;
 
-Here’s the kicker: **To have someone like Shannon, one of the most experienced and top-performing agents in the area, represent you as a buyer***\*\*costs you absolutely nothing. \*\**That’s because the seller is the one paying the commission to sell their home. So many buyers don’t know that having a pro in their corner adds incredible value for no cost.&nbsp;
+Here’s the kicker: **To have someone like Shannon, one of the most experienced and top-performing agents in the area, represent you as a buyer***\*\*costs you absolutely nothing.* That’s because the seller is the one paying the commission to sell their home. So many buyers don’t know that having a pro in their corner adds incredible value for no cost.&nbsp;
 
 Hopefully, if you’re a potential buyer, this message cleared up a lot of confusion and left you feeling empowered—after all, giving buyers a sense of control is what agents like Shannon are passionate about. As always, reach out via phone or email if you have any questions about this or other real estate topics. We’d love to hear from you\!&nbsp;
