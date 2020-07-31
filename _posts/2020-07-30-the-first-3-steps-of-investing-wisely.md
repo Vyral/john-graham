@@ -24,7 +24,7 @@ I’ve been speaking to a few people lately about how to get started with invest
 
 **1\. Find someone experienced.** Whether it’s a real estate agent you trust or a family member, find someone who’s experienced in the business to assist you. They don’t necessarily have to be experienced in investing, but that would help.&nbsp;
 
-**2 .Figure out how you’re going to pay for the property.** This often means finding someone who will lend you the money, but cash is the best way to go if you have it. People usually meet with a mortgage lender to help them finance their investment. You could also meet with a private lender; they’re usually more flexible with their lending criteria. The third option is to ask a family member, which isn’t uncommon for first-time investors to do.
+**2\. Figure out how you’re going to pay for the property.** This often means finding someone who will lend you the money, but cash is the best way to go if you have it. People usually meet with a mortgage lender to help them finance their investment. You could also meet with a private lender; they’re usually more flexible with their lending criteria. The third option is to ask a family member, which isn’t uncommon for first-time investors to do.
 
 {% include pullquote.html %}
 
