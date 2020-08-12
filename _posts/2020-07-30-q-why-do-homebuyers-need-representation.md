@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/q--why-do-homebuyers-need-representation-yt.jpg
-youtube_code: PncAYY52GI0
+youtube_code: uGHKl6tZx7I
 ---
 
 {% include youtube.html %}
