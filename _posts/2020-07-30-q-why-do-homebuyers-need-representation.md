@@ -17,8 +17,7 @@ youtube_code: uGHKl6tZx7I
 
 {% include youtube.html %}
 
- <p style="text-align: center;"><em>
-Shanann Bragg *is here to explain why buyers benefit from representation.</em></p>
+*Shanann Bragg is here to explain why buyers benefit from representation.*
 
 It’s natural for a lot of homebuyers to ask themselves, “Why do I need representation?” After all, in the digital age, home searches have never been easier; can’t you just do everything yourself? As *S*hanann Bragg, one of our senior agents at the Legacy Group Network, explains it: “You always want to have somebody looking out for your best interests from the beginning to the end of the transaction.”&nbsp;
 
