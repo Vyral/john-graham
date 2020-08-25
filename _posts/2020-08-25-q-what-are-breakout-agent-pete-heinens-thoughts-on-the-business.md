@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Are Breakout Agent Pete Heinen’s Thoughts on the Business?'
-date:
+date: 2020-08-25 16:06:12
 tags:
   - Real Estate
 excerpt: Our talented agent Pete Heinen is on a ‘heater.’ Here’s his story.
