@@ -17,7 +17,7 @@ youtube_code: uzMKMj2MFXM
 
 {% include youtube.html %}
 
-*Our talented agent Pete Heinen is on a ‘heater.’ Here’s his story.*
+<p style="text-align: center;"><em>Our talented agent Pete Heinen is on a ‘heater.’ Here’s his story.</em></p>
 
 Today we’re chatting with Pete Heinen, one of our rising stars here at the Legacy Group, about the success he’s achieved in just two years and why he got into real estate in the first place. A Spokane native and former athlete, Pete’s familiarity with the area and competitive drive made him a perfect fit for our philosophy of being second to none. To hear how he’s also leveraged his customer service experience at a high-end hotel to thrive in real estate and why he chose our team in particular, watch our latest video above.&nbsp;
 
