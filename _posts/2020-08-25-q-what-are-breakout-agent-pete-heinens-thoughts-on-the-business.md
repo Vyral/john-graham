@@ -5,7 +5,8 @@ date: 2020-08-25 16:06:00
 tags:
   - Real Estate
 excerpt: Our talented agent Pete Heinen is on a ‘heater.’ Here’s his story.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Graham/Q-+What+Are+Breakout+Agent+Pete+Heinens+Thoughts+on+the+Business_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
