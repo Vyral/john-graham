@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: EF8UX-SBsTM
+youtube_code: WBBDp3uEHN0
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how this year’s market was affected by the pandemic and how it compares to last year’s.</em></p>
+*Here’s how this year’s market was affected by the pandemic and how it compares to last year’s.*
 
 On a normal real estate curve, market activity starts the year slowly and begins to pick up in March, April, and May when a huge influx of homes for sale come on to the market. We typically see a lot of activity until school gets out in the middle of June when it starts to settle. Then the market picks back up again once school is close to starting as people are trying to get their homes back on the market. After that, activity trails off as the holiday season approaches.
 
