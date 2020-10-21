@@ -11,12 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Qdo5Ohr953c
+youtube_code: 6GFC3JDiBZk
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Requesting mortgage forbearance might not be the answer you’re looking for.</em></p>
+*Requesting mortgage forbearance might not be the answer you’re looking for.*
 
 If you’re thinking of requesting forbearance for your home mortgage, there are a few things you should know beforehand.&nbsp;
 
