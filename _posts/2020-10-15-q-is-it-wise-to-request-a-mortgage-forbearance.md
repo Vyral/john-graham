@@ -5,7 +5,8 @@ date: 2020-10-15 18:43:00
 tags:
   - Home Seller Tips
 excerpt: Requesting mortgage forbearance might not be the answer you’re looking for.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Graham/Q-+Is+It+Wise+to+Request+a+Mortgage+Forbearance_.mp4
 pullquote: 'If you sell now, you will be able to buy again down the road.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: 6GFC3JDiBZk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Requesting mortgage forbearance might not be the answer you’re looking for.</em></p>
+*Requesting mortgage forbearance might not be the answer you’re looking for.*
 
 If you’re thinking of requesting forbearance for your home mortgage, there are a few things you should know beforehand.&nbsp;
 
