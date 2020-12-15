@@ -34,4 +34,4 @@ Today we’re interviewing Taylor Kellum, a lifelong athlete from Colville who b
 
 6:00 — Wrapping up our discussion
 
-I hope you found Taylor’s story insightful; here’s to wishing her continued success! Update: She is now over 3.2 million in closed and pending volume! As always, if you have any questions about buying or selling real estate or if you’re considering joining the business, give us a call first. We’d love to chat with you and hear about your particular situation.
+I hope you found Taylor’s story insightful; here’s to wishing her continued success! <b>Update: She is now over 3.2 million in closed and pending volume!</b> As always, if you have any questions about buying or selling real estate or if you’re considering joining the business, give us a call first. We’d love to chat with you and hear about your particular situation.
