@@ -11,12 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mzO5aehf_mg
+youtube_code: sicpYcAXZbw
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Taylor Kellum may be newer to the Legacy group, but she’s making waves!</em></p>
+*Taylor Kellum may be newer to the Legacy group, but she’s making waves\!*
 
 Today we’re interviewing Taylor Kellum, a lifelong athlete from Colville who boasts an extensive background in property management. Taylor’s one of the Legacy Group’s breakout stars, and she cites our phenomenal team culture as a key reason why she sought to grow her career with us here in Spokane. From the way in which our interview process reflects our core values to what it means to be a student of the game who trusts the process, Taylor and I cover it all.
 
@@ -34,4 +34,4 @@ Today we’re interviewing Taylor Kellum, a lifelong athlete from Colville who b
 
 6:00 — Wrapping up our discussion
 
-I hope you found Taylor’s story insightful; here’s to wishing her continued success! <b>Update: She is now over 3.2 million in closed and pending volume!</b> As always, if you have any questions about buying or selling real estate or if you’re considering joining the business, give us a call first. We’d love to chat with you and hear about your particular situation.
+I hope you found Taylor’s story insightful; here’s to wishing her continued success\! **Update: She is now over 3.2 million in closed and pending volume\!** As always, if you have any questions about buying or selling real estate or if you’re considering joining the business, give us a call first. We’d love to chat with you and hear about your particular situation.
