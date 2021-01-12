@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Implement an End-of-the-Year Retreat
-date: 2020-12-28 17:46:00
+date: 2021-1-12 09:46:00
 tags:
   - Real Estate
 excerpt: Today I’d like to share how we implement our end-of-the-year advance.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-to-implement-an-end-of-the-year-retreat-yt.jpg
-youtube_code: I7V0mihL_fk
+youtube_code: niJngbJfjG4
 ---
 
 {% include youtube.html %}
