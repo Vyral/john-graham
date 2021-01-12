@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Implement an End-of-the-Year Retreat
+title: 3 Keys to Planning an End-of-the-Year Advance
 date: 2021-1-12 09:46:00
 tags:
   - Real Estate
