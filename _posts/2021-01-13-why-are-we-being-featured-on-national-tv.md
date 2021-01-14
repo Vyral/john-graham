@@ -15,6 +15,6 @@ youtube_code: 06FXOkDMpUY
 
 {% include youtube.html %}
 
-The Legacy Group is the real estate company of choice for an upcoming show.
+<p style="text-align: center;"><em>The Legacy Group is the real estate company of choice for an upcoming show.</em></p>
 
 The Legacy Group has been hand-selected to be the real estate company of choice for a brand-new national TV show shot right here in Spokane and Coeur D'alene. It’s a real TV show, not a reality TV show, focused on combating negative media with a positive outlook and is centered around real estate, lifestyle, and culture. It’s called “The American Dream” and if you’re interested in selling your home and willing to be featured in the show, we’d love to talk. To learn more, watch this short video.
