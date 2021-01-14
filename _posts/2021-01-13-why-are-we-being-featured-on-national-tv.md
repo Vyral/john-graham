@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Why Are We Being Featured on National TV?
-date: 2021-01-13 21:04:32
+date: 2021-01-14 09:04:32
 tags:
 excerpt: The Legacy Group is the real estate company of choice for an upcoming show.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/John+Graham/Why+Are+We+Being+Featured+on+National+TV_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
