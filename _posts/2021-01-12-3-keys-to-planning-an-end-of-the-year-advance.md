@@ -5,7 +5,8 @@ date: 2021-01-12 09:46:00
 tags:
   - Real Estate
 excerpt: Today I’d like to share how we implement our end-of-the-year advance.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Graham/3+Keys+to+Planning+an+End-of-the-Year+Advance.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: 3qOeZ_JGy5Q
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I’d like to share how we implement our end-of-the-year advance.</em></p>
+*Today I’d like to share how we implement our end-of-the-year advance.*
 
 Some people call our end-of-the-year advance an off-site or a retreat. Essentially, it’s a meeting we hold at the end of the year where we leave the comfortable surroundings of our office building to go off-site, just to change things up. At this meeting, we do a recap of the past year and a forecast for the next year, combined with trainings and other activities. To plan your end-of-the-year advance, here are a few key things to keep in mind:
 
