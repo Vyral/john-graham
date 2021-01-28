@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Keys to Planning an End-of-the-Year Advance
-date: 2021-01-12 09:46:00
+date: 2021-01-28 09:46:00
 tags:
   - Real Estate
 excerpt: Today I’d like to share how we implement our end-of-the-year advance.
