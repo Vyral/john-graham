@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Drives Our Breakout Agent Taylor Kellum?
-date: 2020-02-02 09:17:00
+date: 2021-02-02 09:17:00
 tags:
   - Agent Spotlight
 excerpt: 'Taylor Kellum may be newer to the Legacy group, but she’s making waves!'
