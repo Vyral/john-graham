@@ -16,7 +16,7 @@ youtube_code: hBd-d9owmXg
 
 {% include youtube.html %}
 
-*Taylor Kellum may be newer to the Legacy group, but she’s making waves\!*
+<p style="text-align: center;"><em>Taylor Kellum may be newer to the Legacy group, but she’s making waves!</em></p>
 
 Today we’re interviewing Taylor Kellum, a lifelong athlete from Colville who boasts an extensive background in property management. Taylor’s one of the Legacy Group’s breakout stars, and she cites our phenomenal team culture as a key reason why she sought to grow her career with us here in Spokane. From the way in which our interview process reflects our core values to what it means to be a student of the game who trusts the process, Taylor and I cover it all.
 
