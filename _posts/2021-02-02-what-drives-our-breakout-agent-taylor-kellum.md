@@ -22,16 +22,16 @@ Today we’re interviewing Taylor Kellum, a lifelong athlete from Colville who b
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
-0:40 — A brief overview of Taylor’s background and interests&nbsp;
+0:37 — A brief overview of Taylor’s background and interests&nbsp;
 
-1:47 — Why did Taylor choose the Legacy Group over her other options?&nbsp;
+1:15 — Why did Taylor choose the Legacy Group over her other options?&nbsp;
 
-3:02 — Taylor’s experience of building her pipeline&nbsp;
+2:03 — Taylor’s experience of building her pipeline&nbsp;
 
-4:17 — Her outstanding progress so far after 2.5 months with the Legacy Group&nbsp;
+2:45 — Her outstanding progress so far after 2.5 months with the Legacy Group&nbsp;
 
-5:20 — What advice would Taylor give to someone who’s thinking about getting into real estate?
+3:17 — What advice would Taylor give to someone who’s thinking about getting into real estate?
 
-6:00 — Wrapping up our discussion
+4:00 — Wrapping up our discussion
 
 I hope you found Taylor’s story insightful; here’s to wishing her continued success\! **Update: She is now over 3.6 million in closed and pending volume\!** As always, if you have any questions about buying or selling real estate or if you’re considering joining the business, give us a call first. We’d love to chat with you and hear about your particular situation.
