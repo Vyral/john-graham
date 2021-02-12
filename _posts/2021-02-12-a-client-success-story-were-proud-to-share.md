@@ -18,7 +18,7 @@ youtube_code: 6TpbDvZUqKk
 
 {% include youtube.html %}
 
-Here’s an example of what it’s like to grow your wealth in real estate.&nbsp;
+<p style="text-align: center;"><em>Here’s an example of what it’s like to grow your wealth in real estate.</em></p>
 
 Michael Kiter is one of the senior agents at the Legacy Group, and today he joins me to tell the story of how he was able to help a family buy, sell, and grow their net worth over 10 years.&nbsp;
 
