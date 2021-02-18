@@ -1,11 +1,12 @@
 ---
 layout: post
 title: A Client Success Story We’re Proud to Share
-date: 2021-02-12 09:00:00
+date: 2021-02-18 09:00:00
 tags:
   - Real Estate
 excerpt: Here’s an example of what it’s like to grow your wealth in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Graham/A+Client+Success+Story+We%E2%80%99re+Proud+to+Share.mp4
 pullquote: >-
   Oftentimes, starting your net worth in real estate boils down to when you buy
   and sell your first home.
@@ -18,7 +19,7 @@ youtube_code: 6TpbDvZUqKk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s an example of what it’s like to grow your wealth in real estate.</em></p>
+*Here’s an example of what it’s like to grow your wealth in real estate.*
 
 Michael Kiter is one of the senior agents at the Legacy Group, and today he joins me to tell the story of how he was able to help a family buy, sell, and grow their net worth over 10 years.&nbsp;
 
@@ -34,7 +35,7 @@ Michael was happy to lend a hand, and his favorite part of helping these people 
 
 {% include pullquote.html %}
 
-“On top of that,” Michael says, “you should see Lydia’s face every time we walk into this new home. Her eyes absolutely light up. It is amazing to watch them walk through the home, and the kids are running through and selecting their rooms. It’s just... heartwarming.”
+“On top of that,” Michael says, “you should see Lydia’s face every time we walk into this new home. Her eyes absolutely light up. It is amazing to watch them walk through the home, and the kids are running through and selecting their rooms. It’s just… heartwarming.”
 
 That’s why we do what we do. **It’s awesome to hear that those kids have that happiness in their lives because of something we did.** Kudos to Michael\!
 
